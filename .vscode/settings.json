@@ -3,6 +3,11 @@
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": false
+  },
   "workbench.colorTheme": "Gray Matter Light",
   "[markdown]": {
     "editor.quickSuggestions": true
@@ -16,5 +21,7 @@
     "**/node_modules": true
   },
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
-  "vscodeMarkdownNotes.slugifyMethod": "github-slugger"
+  "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+  "markdown-links.fileIdRegexp": "\\d{14}",
+  "insertDateString.format": "YYYYMMDDhhmmss"
 }
