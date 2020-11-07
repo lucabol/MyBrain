@@ -23,5 +23,9 @@
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
   "markdown-links.fileIdRegexp": "\\d{14}",
-  "insertDateString.format": "YYYYMMDDhhmmss"
+  "insertDateString.format": "YYYYMMDDhhmmss",
+  "cSpell.words": [
+    "LINKID",
+    "TAGLIST"
+  ]
 }
