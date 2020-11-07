@@ -25,5 +25,12 @@
   "cSpell.words": [
     "LINKID",
     "TAGLIST"
-  ]
+  ],
+  // from https://github.com/kortina/vscode-markdown-notes/blob/master/RECOMMENDED-SETTINGS.md
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "explorer.sortOrder": "modified",
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.revealIfOpen": true,
+  "workbench.editor.enablePreviewFromQuickOpen": false
 }
