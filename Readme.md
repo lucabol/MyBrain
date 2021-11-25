@@ -1,2 +1,2 @@
-# [Zettelkasten](https://github.com/lucabol/MyBrain/wiki)
+# Zettelkasten [Here](https://github.com/lucabol/MyBrain/wiki)
 
